@@ -5,47 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaa4ded8-0d98-4c7c-ae29-fc3ee95dbb62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/books/1984.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/alice.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/crime.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/dune.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/hobbit.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/lifofpi.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/little-prince.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/thefirst.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/thesecond.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/thetenth.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/thethird.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/books/they.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/click.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sounds/error.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sounds/keystroke.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sounds/success.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnimatedTitle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircularText.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClickSpark.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dock.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScrollReveal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TiltedCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeTrainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypewriterEffect.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +26,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnasZhumabay/prune.git",
+    "accountId": "2e4cdfa8-9d16-434e-9e45-326ba6b4765e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -73,23 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/anasj/OneDrive/Рабочий стол/prune/public/books&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/anasj/OneDrive/Рабочий стол/prune/public/books",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\anasj\OneDrive\Рабочий стол\prune\public\books" />
@@ -121,6 +89,7 @@
       <workItem from="1749985208868" duration="20023000" />
       <workItem from="1750076502102" duration="9057000" />
       <workItem from="1750090506910" duration="226000" />
+      <workItem from="1750306876273" duration="1255000" />
     </task>
     <servers />
   </component>
