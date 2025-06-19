@@ -2,8 +2,8 @@
   "name": "prune",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AnasZhumabay.github.io/prune",
   "dependencies": {
-    "homepage": "https://AnasZhumabay.github.io/prune",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
